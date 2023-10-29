@@ -253,7 +253,7 @@ a {
 
 .features {
     background-color: #333;
-    background-image: url(/overlay1.png), url(/header.jpg);
+    background-image: url(assets/overlay1.png), url(assets/header.jpg);
     background-attachment: fixed;
     height: 110vh;
     background-size: cover;
@@ -563,7 +563,7 @@ a {
 
 .cta {
     background-color: #333;
-    background-image: url(/overlay1.png), url(/header.jpg);
+    background-image: url(assets/overlay1.png), url(assets/header.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 55vh;
